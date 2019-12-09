@@ -1,0 +1,11 @@
+.wrapper, .sample{margin: 20px 20px;}
+.card_form, form{margin: 50px auto;}
+.dz1, .g_list{margin: 20px auto}
+.g_card{list-style-type: none;  }
+.fa-exclamation-circle{color: crimson;}
+.fa-chevron-circle-down{color: rgb(8, 121, 60);}
+.wrapper{
+	padding: 15px;
+	max-width: 500px;
+	margin: 0 auto;
+}
