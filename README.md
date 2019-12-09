@@ -1,4 +1,4 @@
-# homework_4
+# Комонентный подход во фреймворке VueJS
 
 > vue_cli components
 
